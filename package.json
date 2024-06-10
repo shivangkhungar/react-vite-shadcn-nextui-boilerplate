@@ -1,8 +1,9 @@
 {
-  "name": "demo-app",
+  "name": "react-vite-shadcn-nextui-boilerplate",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": "shivangkhungar",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
